@@ -1,0 +1,12 @@
+sys
+re
+numpy
+pprint
+gensim
+spacy
+logging
+warnings
+gensim
+matplotlib
+nltk
+pyLDAvis
