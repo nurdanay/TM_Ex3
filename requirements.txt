@@ -1,5 +1,4 @@
 numpy
-pprint
 gensim
 spacy
 logging
