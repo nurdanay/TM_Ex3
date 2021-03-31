@@ -387,9 +387,3 @@ plot = figure(title="t-SNE Clustering of {} LDA Topics".format(n_topics),
               plot_width=900, plot_height=700)
 plot.scatter(x=tsne_lda[:,0], y=tsne_lda[:,1], color=mycolors[topic_num])
 show(plot)
-
-import pyLDAvis.gensim
-pyLDAvis.enable_notebook()
-vis = pyLDAvis.gensim.prepare(lda_model, corpus, dictionary=lda_model.id2word)
-vis
-
