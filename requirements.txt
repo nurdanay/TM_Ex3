@@ -5,7 +5,8 @@ spacy==2.3.5
 Levenshtein
 matplotlib
 nltk
-pyLDAvis
+pyLDAvis==2.1.2
 seaborn
 wordcloud
 bokeh
+ipython==7.10.0
