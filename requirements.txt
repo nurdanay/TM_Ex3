@@ -6,3 +6,6 @@ Levenshtein
 matplotlib
 nltk
 pyLDAvis
+seaborn
+wordcloud
+bokeh
