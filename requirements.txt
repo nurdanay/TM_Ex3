@@ -2,6 +2,9 @@ numpy
 gensim
 spacy
 gensim
+gensim.corpora
+gensim.utils
+gensim.models
 matplotlib
 nltk
 pyLDAvis
