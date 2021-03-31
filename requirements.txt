@@ -1,8 +1,6 @@
 numpy
 gensim
 spacy
-logging
-warnings
 gensim
 matplotlib
 nltk
