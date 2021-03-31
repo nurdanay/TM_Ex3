@@ -1,4 +1,4 @@
-enumpy
+numpy
 gensim
 spacy
 gensim
