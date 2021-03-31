@@ -1,6 +1,6 @@
 numpy
 scipy
-gensim
+gensim==3.2.0
 spacy
 gensim
 Levenshtein
