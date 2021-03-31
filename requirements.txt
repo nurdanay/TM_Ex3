@@ -1,7 +1,7 @@
 numpy
 scipy
 gensim==3.2.0
-spacy
+spacy==2.3.5
 Levenshtein
 matplotlib
 nltk
