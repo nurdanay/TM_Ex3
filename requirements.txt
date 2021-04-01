@@ -10,3 +10,4 @@ seaborn
 wordcloud
 bokeh
 ipython==7.10.0
+sklearn
